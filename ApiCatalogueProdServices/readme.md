@@ -43,4 +43,4 @@ Vous devez le télécharger sur votre ordinateur et utiliser la ligne de command
 
 java -jar ApiCatalogueProdServices.jar
 
-Ensuite, vous pouvez utiliser l'outil POSTMAN pour pouvoir les appeler.
+Cet API possède un serveur d'applications integré appelé TOMCAT. Vous pouvez utiliser l'outil POSTMAN pour pouvoir appeler les operations.
